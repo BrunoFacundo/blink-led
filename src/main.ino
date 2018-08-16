@@ -1,6 +1,6 @@
 #include <TickerScheduler.h>
 
-TickerScheduler scheduler(3);
+TickerScheduler scheduler(2);
 
 int PIN_LED_1 = D2;
 int PIN_LED_2 = D3;
